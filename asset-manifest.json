@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/movie_app_2021/static/css/main.20c16321.chunk.css",
-    "main.js": "/movie_app_2021/static/js/main.8d5053b3.chunk.js",
-    "main.js.map": "/movie_app_2021/static/js/main.8d5053b3.chunk.js.map",
-    "runtime-main.js": "/movie_app_2021/static/js/runtime-main.acc2aabc.js",
-    "runtime-main.js.map": "/movie_app_2021/static/js/runtime-main.acc2aabc.js.map",
-    "static/js/2.94903288.chunk.js": "/movie_app_2021/static/js/2.94903288.chunk.js",
-    "static/js/2.94903288.chunk.js.map": "/movie_app_2021/static/js/2.94903288.chunk.js.map",
-    "index.html": "/movie_app_2021/index.html",
-    "static/css/main.20c16321.chunk.css.map": "/movie_app_2021/static/css/main.20c16321.chunk.css.map",
-    "static/js/2.94903288.chunk.js.LICENSE.txt": "/movie_app_2021/static/js/2.94903288.chunk.js.LICENSE.txt"
+    "main.css": "/moive_app_2021/static/css/main.20c16321.chunk.css",
+    "main.js": "/moive_app_2021/static/js/main.8d5053b3.chunk.js",
+    "main.js.map": "/moive_app_2021/static/js/main.8d5053b3.chunk.js.map",
+    "runtime-main.js": "/moive_app_2021/static/js/runtime-main.3e47f0d3.js",
+    "runtime-main.js.map": "/moive_app_2021/static/js/runtime-main.3e47f0d3.js.map",
+    "static/js/2.94903288.chunk.js": "/moive_app_2021/static/js/2.94903288.chunk.js",
+    "static/js/2.94903288.chunk.js.map": "/moive_app_2021/static/js/2.94903288.chunk.js.map",
+    "index.html": "/moive_app_2021/index.html",
+    "static/css/main.20c16321.chunk.css.map": "/moive_app_2021/static/css/main.20c16321.chunk.css.map",
+    "static/js/2.94903288.chunk.js.LICENSE.txt": "/moive_app_2021/static/js/2.94903288.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.acc2aabc.js",
+    "static/js/runtime-main.3e47f0d3.js",
     "static/js/2.94903288.chunk.js",
     "static/css/main.20c16321.chunk.css",
     "static/js/main.8d5053b3.chunk.js"
